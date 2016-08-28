@@ -1,0 +1,20 @@
+body {
+	background: black;
+}
+#pad {
+	color:green;
+}
+
+#prompt{
+	color: green;
+	font-weight: bold;
+}
+
+.completed{
+	color: green;
+
+}
+
+.output{
+	color: green;
+}
